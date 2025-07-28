@@ -50,7 +50,9 @@
 <br>
 <!-- 애니메이션 커밋 그래프 -->
 <h3 align="center">🔥 Streak Stats</h3>
-<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=oodhmo&theme=tokyonight" alt="GitHub Streak" /></a>
+<p align="center">
+  <a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=oodhmo&theme=tokyonight" alt="GitHub Streak" /></a>
+</p>
 
 <br>
 
